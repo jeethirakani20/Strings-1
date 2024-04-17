@@ -1,5 +1,5 @@
 # T.C. : O(n)
-# S.C. : O(n)
+# S.C. : O(1)
 
 class Solution:
     def customSortString(self, order: str, s: str) -> str:
